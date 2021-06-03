@@ -18,9 +18,10 @@
 ### Connect with me:
 
 
-[<a href="https://twitter.com/PhmQuangLinh20"><img align="left" alt="PhmQuangLinh20| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>][twitter]
-[<a href="https://www.linkedin.com/in/pham-quang-linh-89aa10210/"><img align="left" alt="pham-quang-linh-89aa10210| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
-[<a href="https://www.instagram.com/quanglinh.1/"><img align="left" alt="quanglinh.1| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram]
+[<a href="https://twitter.com/PhmQuangLinh20"><img align="left" alt="PhmQuangLinh20| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>]
+[<a href="https://www.linkedin.com/in/pham-quang-linh-89aa10210/"><img align="left" alt="pham-quang-linh-89aa10210| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>]
+[<a href="https://www.instagram.com/quanglinh.1/"><img align="left" alt="quanglinh.1| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>]
+[<a href="https://www.facebook.com/addcainay/"><img align="left" alt="addcainay| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>]
 
 <br />
 
