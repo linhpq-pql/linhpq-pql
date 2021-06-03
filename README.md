@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PhmQuangLinh20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PhmQuangLinh20)
 
-## I'm University Student ^^ , I trying to become System Engineer, 
+## I'm University Student ^^ , I trying to become System Engineer, Security Expert
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
